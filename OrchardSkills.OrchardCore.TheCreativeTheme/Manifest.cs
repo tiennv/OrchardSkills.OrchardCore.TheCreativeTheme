@@ -5,5 +5,5 @@ using OrchardCore.DisplayManagement.Manifest;
     Author = "Orchard Skills",
     Website = "https://OrchardSkills.com",
     Version = "2.0.0",
-    Description = "An Orchard Skills theme adapted for Creative websites."
+    Description = "An Orchard Skills theme adapted for creative websites."
 )]
